@@ -1,6 +1,5 @@
 <?php
 phpinfo();
-?>
 
 //Mulai
 //Input :r (jari-jari lingkaran)
@@ -21,7 +20,7 @@ $k=2$phi/$r;
 echo "hasil keliling lingkaran=" $k;
 
 //selesai
-
+?>
 
 
 
